@@ -1,0 +1,59 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #33333300;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #11111100;
+  }
+
+
+ 
+
+
+  .nav {
+
+    height: 90px;
+  }
+
+.hero {
+    padding: 80px;
+    background-color: #1111116d;
+    text-align: center;
+}
+
+.col-md-7 {
+
+    padding: 50px;
+}
+
+.hello {
+
+padding-top: 50px;
+}
+
+.toy {
+
+  text-align: left;
+}
+
+.col-md-5 {
+padding: 50px;
+  text-align: left;
+}
